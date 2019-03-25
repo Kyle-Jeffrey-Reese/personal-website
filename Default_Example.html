@@ -11,7 +11,7 @@
 
 
 
-<title>Projects</title>
+<title>Credit Default Example</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -305,41 +305,15 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Projects</h1>
+<h1 class="title toc-ignore">Credit Default Example</h1>
 
 </div>
 
 
-<p>Uploading pdfs of some past projects was more difficult than I antipated. One technique was using html (which R Markdown supports). The easier method I discovered was making google docs public and embedded to give the pdf a link which I in turn can link here.</p>
-<div id="predicting-nfl-wins-project-using-regression-in-r-and-minitab" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vTWFrmmJz_PnOEXE5Oq2AIr6APWQbTmMuHE3SvXClZcJ5gOge2ZXN24tijibQfWtDjyMGcr8J13TA9J/pub?embedded=true">Predicting NFL wins project Using Regression in R and Minitab</a></h2>
-</div>
-<div id="decision-tree-and-logistic-regression-in-spss-and-sas-who-goes-to-the-library" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vR96HZsDt_YmINbiLOMypa4w4vR53VIB90wNj--JF3VL8eiiFC_utCutAZ1vEFeFWx3K0kBMCU-RHgo/pub?embedded=true">Decision Tree and Logistic Regression in SPSS and SAS: Who goes to the library?</a></h2>
-<p>Above two links are interesting projects I presented in class.</p>
-</div>
-<div id="chaid-decision-tree-in-spss-for-predicting-customer-conversion" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vSp-JFgHPZZ1gpvHwBWCPJBpTZNQZ-7RcSBuIHoCBUc0kKCUCB7m1vPhqBSsuIJ_ZXcGpTNIbgm-vQp/pub?embedded=true">CHAID Decision Tree in SPSS for Predicting Customer Conversion</a></h2>
-</div>
-<div id="cart-decision-tree-in-spss-for-predicting-income-50000" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vR1mjB4iU-tKdu-bU1ggR6TagT7-vPoxnZ1cDFa1whI7gJIq-rBQUnse-54pmpGzoVvkiervdjZhXlk/pub?embedded=true">CART Decision Tree in SPSS for Predicting Income &gt; 50,000</a></h2>
-</div>
-<div id="logistic-regression-in-spss-for-diabetes-in-adult-female-pima-indian" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vTOktrn5HKjIq5L7lRG5bF0e4G0gpeuhxk7mIx1TOZGeUMvo_fipG8rOH30is1wOZdaoNbQghOWiOm_/pub?embedded=true">Logistic Regression in SPSS for Diabetes in Adult Female Pima Indian</a></h2>
-<p>Above 3 links are assignments from a decision tree and logistic regression course.</p>
-</div>
-<div id="basic-sql-datacamp-notes" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vRGFJTu7SS7DMHY247JHd8O7-edOYcfpgBzgHta-KUUtBIBtFyEbeRbk4qd2BJq3xvuHUSIWmconphH/pub?embedded=true">Basic SQL Datacamp Notes</a></h2>
-<p>Simple sql notes above.</p>
-</div>
-<div id="logistic-regression-linear-discriminant-analysis-and-support-vector-machines-with-3-different-kernals-in-r-for-heart-data" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vSyPz7UwZuHJXFFL316q7qxOw3K0UpHQVqsL34UECYmnNY3U-glos5Lfr60s25Pm3Aibd85bJsSOR5O/pub?embedded=true">Logistic Regression, Linear Discriminant Analysis, and Support Vector Machines with 3 different Kernals in R for Heart Data</a></h2>
-<p>Code that runs these three modeling techniques for this dataset. Includes cross validation.</p>
-</div>
-<div id="numerical-methods-i" class="section level2">
-<h2><a href="https://docs.google.com/document/d/e/2PACX-1vSs_nCajOxcEuM3jWK90rGLcQb0GmlPn5F_2kGRlA0HorHjbiMqaSi6_mK-ZrLSzYCmWhsI4tBIovQQ/pub?embedded=true">Numerical Methods I</a></h2>
-<p>Additional Files still required: Numerical Methods II (ODE and PDE), credit data analysis with logistic regression and decision trees, neural nets</p>
-</div>
+<p>In this quick (assuming I don’t over do it) example I want to apply the common methods for Credit Risk including logistic regression, decision trees, disciminant analysis, neural networks, and support vector machines. I will quickly go through most of the actual “important stuff” (things like understanding the dataset and cleaning the data) but will mention what one should do (If I included all the basic statistics I run, graphs I create, and steps for cleaning the data, then this document would be very long!).</p>
+<p>Starting off, we have a dataset called loan_data already in R studio (could use import packages like readr or data.table). We should get some basic feel for this data:</p>
+<p>str(loan_data)</p>
+<p>library(“gmodels”)</p>
 
 
 

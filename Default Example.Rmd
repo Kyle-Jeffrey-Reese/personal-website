@@ -1,0 +1,14 @@
+---
+title: "Credit Default Example"
+---
+
+In this quick (assuming I don't over do it) example I want to apply the common methods for Credit Risk including logistic regression, decision trees, disciminant analysis, neural networks, and support vector machines. I will quickly go through most of the actual "important stuff" (things like understanding the dataset and cleaning the data) but will mention what one should do (If I included all the basic statistics I run, graphs I create, and steps for cleaning the data, then this document would be very long!). 
+
+Starting off, we have a dataset called loan_data already in R studio (could use import packages like readr or data.table). We should get some basic feel for this data:
+
+str(loan_data)
+
+library("gmodels")
+
+
+

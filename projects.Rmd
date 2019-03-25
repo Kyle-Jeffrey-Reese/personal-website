@@ -1,5 +1,38 @@
 ---
 title: "Projects"
 ---
+Uploading pdfs of some past projects was more difficult than I antipated. One technique was using html (which R Markdown supports). The easier method I discovered was making google docs public and embedded to give the pdf a link which I in turn can link here.  
 
-My projects!
+
+## [Predicting NFL wins project Using Regression in R and Minitab](https://docs.google.com/document/d/e/2PACX-1vTWFrmmJz_PnOEXE5Oq2AIr6APWQbTmMuHE3SvXClZcJ5gOge2ZXN24tijibQfWtDjyMGcr8J13TA9J/pub?embedded=true)
+
+## [Decision Tree and Logistic Regression in SPSS and SAS: Who goes to the library?
+](https://docs.google.com/document/d/e/2PACX-1vR96HZsDt_YmINbiLOMypa4w4vR53VIB90wNj--JF3VL8eiiFC_utCutAZ1vEFeFWx3K0kBMCU-RHgo/pub?embedded=true)
+
+Above two links are interesting projects I presented in class.
+
+
+
+
+## [CHAID Decision Tree in SPSS for Predicting Customer Conversion ](https://docs.google.com/document/d/e/2PACX-1vSp-JFgHPZZ1gpvHwBWCPJBpTZNQZ-7RcSBuIHoCBUc0kKCUCB7m1vPhqBSsuIJ_ZXcGpTNIbgm-vQp/pub?embedded=true)
+
+## [CART Decision Tree in SPSS for Predicting Income > 50,000 ](https://docs.google.com/document/d/e/2PACX-1vR1mjB4iU-tKdu-bU1ggR6TagT7-vPoxnZ1cDFa1whI7gJIq-rBQUnse-54pmpGzoVvkiervdjZhXlk/pub?embedded=true)
+
+## [Logistic Regression in SPSS for Diabetes in Adult Female Pima Indian
+](https://docs.google.com/document/d/e/2PACX-1vTOktrn5HKjIq5L7lRG5bF0e4G0gpeuhxk7mIx1TOZGeUMvo_fipG8rOH30is1wOZdaoNbQghOWiOm_/pub?embedded=true)
+
+Above 3 links are assignments from a decision tree and logistic regression course. 
+
+## [Basic SQL Datacamp Notes
+](https://docs.google.com/document/d/e/2PACX-1vRGFJTu7SS7DMHY247JHd8O7-edOYcfpgBzgHta-KUUtBIBtFyEbeRbk4qd2BJq3xvuHUSIWmconphH/pub?embedded=true)
+
+Simple sql notes above.
+
+## [Logistic Regression, Linear Discriminant Analysis, and Support Vector Machines with 3 different Kernals in R for Heart Data](https://docs.google.com/document/d/e/2PACX-1vSyPz7UwZuHJXFFL316q7qxOw3K0UpHQVqsL34UECYmnNY3U-glos5Lfr60s25Pm3Aibd85bJsSOR5O/pub?embedded=true)
+
+Code that runs these three modeling techniques for this dataset. Includes cross validation. 
+
+## [Numerical Methods I
+](https://docs.google.com/document/d/e/2PACX-1vSs_nCajOxcEuM3jWK90rGLcQb0GmlPn5F_2kGRlA0HorHjbiMqaSi6_mK-ZrLSzYCmWhsI4tBIovQQ/pub?embedded=true)
+
+Additional Files still required: Numerical Methods II (ODE and PDE), credit data analysis with logistic regression and decision trees, neural nets
