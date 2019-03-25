@@ -6,6 +6,10 @@ Welcome! This is my website created with R Markdown in RStudio. It's connected w
 
 One interesting thing that I can do is run R code directly to produce interesting output (with the knitr package I have access to approximately 30 other programming languages too). For example, consider the plot below from the gapminder dataset (a classic!). It displays the change of GDP per capita and life expectancy over time. This dataset is perfect for the dplyr package (practice with the pipe operator) along with ggplot2, ggplotly, and plotly for cool visuals. 
 
+
+
+
+
 ```{r, echo = FALSE, fig.align='center'}
 data(gapminder, package = "gapminder")
 gg <- ggplot(gapminder, aes(gdpPercap, lifeExp, color = continent)) +
@@ -14,5 +18,9 @@ gg <- ggplot(gapminder, aes(gdpPercap, lifeExp, color = continent)) +
 ggplotly(gg)
 ```
 
-There is so much to do! 
+There is so much to do! (Like figure out why ggplot gives me useless warnings)
+
+
+
+
 
