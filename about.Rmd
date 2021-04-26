@@ -2,18 +2,11 @@
 title: "About Me"
 ---
 
-- __Me:__ I am currently a Master's student studying statistics at the University of Akron. Since my main requirement after the spring semester will be writing my thesis, I am currently searching for a job. I originally wanted to study applied mathematics, however, during my freshman year I took a class on decision trees and logistic regression. This class showed me how powerful and applicable statistics really was. I continued studying mathematics (I even wrote my honors thesis in mathematical biology) but took on statistics and have loved it ever since!
+- __About Me:__ I currently work at Westfield Insurance as a Personal Lines Analyst. I am particularly interested in the Insurance (and greater financial) industry. I am also a Master's student studying statistics at the University of Akron. I just have my Thesis to complete (it relates to fMRI Spatio-Temporal Analysis). I am also in a Master's in Financial Engineering degree program (since i am interested in statistical applications to finance).
 
 
-- __Hobbies:__ I enjoy reading history and things relating to financial matters. 
-
-A picture of me (well two years ago at least). 
-
-<embed src="https://docs.google.com/document/d/e/2PACX-1vTikdLFOerVcscSYkGHL4exfo-K0hVN5KgLf1vCk-2esDkk6A_EoxMBKdc9pd5Dx0z_jb0UEHCKgORl/pub?embedded=true" width="800" height="800">
+- __How I got into Statistics:__ I originally wanted to study Applied Mathematics, however, during my freshman year of university, I took an elective class in the Statistics department where we used decision trees and logistic regression to build models and answer questions. This class showed me how powerful and applicable statistics really was. I continued studying mathematics (I even wrote my honors thesis in mathematical biology) but took on statistics and have loved it ever since!
 
 
+More to come as I revamp this website!
 
-(Note to self: Use following html code to embed pdf into website instead of linking it)
-
-<(embed src="link" width="800" height="800">) (No parentheses)
-With large width/height commands to avoid scroll bar
