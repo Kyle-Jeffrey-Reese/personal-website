@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+- __About Me:__ I currently work at Westfield Insurance as a Personal Lines Analyst. I am particularly interested in the Insurance (and greater financial) industry. I am also a Master's student studying statistics at the University of Akron. I just have my Thesis to complete (it relates to fMRI Spatio-Temporal Analysis). I am also in a Master's in Financial Engineering degree program (since i am interested in statistical applications to finance).
+
+
+- __How I got into Statistics:__ I originally wanted to study Applied Mathematics, however, during my freshman year of university, I took an elective class in the Statistics department where we used decision trees and logistic regression to build models and answer questions. This class showed me how powerful and applicable statistics really was. I continued studying mathematics (I even wrote my honors thesis in mathematical biology) but took on statistics and have loved it ever since!
+
+
+More to come as I revamp this website!
+
